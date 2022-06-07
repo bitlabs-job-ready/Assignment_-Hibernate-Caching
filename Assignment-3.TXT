@@ -1,0 +1,10 @@
+3.Create a use case that can implement second level cache.
+-create a entity called employee, with following parameters
+	A.emp_id,
+	B.emp_name,
+	C.emp_sal,
+	D.emp_city;
+
+1.insert values into "employee" table 
+2.show records based on emp_id,
+3.implement caching for above operations.
